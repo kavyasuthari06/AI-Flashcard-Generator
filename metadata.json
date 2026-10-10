@@ -1,0 +1,6 @@
+{
+  "name": "RecallMate AI",
+  "description": "Turn your notes into knowledge with AI-powered flashcards, quizzes, and personalized revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
